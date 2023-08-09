@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**yuvarajuv/yuvarajuv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yuvaraj, a passionate Full Stack Developer and Tech Consultant with a strong foundation in building dynamic web and mobile applications. Welcome to my GitHub profile, where I love to code, innovate, and collaborate on exciting projects!
 
-Here are some ideas to get you started:
+## 🔧 Technologies and Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Front End: HTML, CSS, Bootstrap, Material-UI, JavaScript, jQuery, React (with Redux), Angular
+- Back End: Node.js, Express, PHP, Java Spring
+- Databases: MySQL, SQL, DynamoDB, MongoDB
+- Mobile Development: Ionic, React Native
+- Cloud & Infrastructure: AWS (Lambda, S3, API Gateway, and more)
+- Version Control: Git
+
+## 📈 Let's Connect!
+
+I'm always excited to connect with fellow developers, tech enthusiasts, and professionals. Feel free to reach out if you want to collaborate, share insights, or discuss the latest industry trends.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/yuvarajravi2)
+
+Let's code, innovate, and make a difference together! 🌍
